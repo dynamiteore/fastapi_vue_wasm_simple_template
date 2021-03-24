@@ -1,0 +1,2 @@
+# fastapi_vue_wasm_simple_template
+aaaaaaaaaaaaaaaaaaaaaaaa
